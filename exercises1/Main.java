@@ -9,6 +9,8 @@ package exercises1;
 
 public class Main {
 
+    // Java only capitalises classes, not methods
+    
     public static void main(String[] args) {
         Person pers1 = new Person();
         Person pers2 = new Person("Kim", "Possible", 22);
